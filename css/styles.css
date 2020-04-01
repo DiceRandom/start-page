@@ -7,6 +7,10 @@
 		font-size: 18px;
 	}
 
+	body {
+		height: 100vh;
+	}
+
 	button{
 		background-color: none;
 		color: none;
